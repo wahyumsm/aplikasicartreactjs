@@ -232,7 +232,7 @@ const Cart = () => {
                                             <ProductCard
                                                 cart={cart}
                                                 addedProducts={addedProducts}
-                                                key={cart.id} 
+                                                key={cart.id}
                                             />
 
                                         </>
